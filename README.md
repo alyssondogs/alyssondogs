@@ -37,7 +37,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center" ><img align="center" src="https://profile-counter.glitch.me/{alyssondogs}/count.svg" /></p> 
+<p align="center" ><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Falyssondogs&s=40&c=009acd&bg=00000000&no=5&ff=alien&tb=&ta=" alt="visits" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009ACD&height=120&section=footer"/>
